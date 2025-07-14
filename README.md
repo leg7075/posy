@@ -2,6 +2,7 @@
 an edit of posy's cursor with a trans flag hourglass
 
 preview:
+
 ![images of the edited cursors](https://github.com/leg7075/posy/blob/main/preview.png?raw=true)
 
 made in figma and [realworld cursor editor](https://www.rw-designer.com/cursor-maker) by editing posy's [svg](https://michieldb.nl/other/cursors/posys-cursors-vectors-v4-svg.svg) files and trying my best to line them up to the original .cur files pixel-by-pixel.
