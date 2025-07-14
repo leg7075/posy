@@ -1,9 +1,11 @@
 # posy's cursor mery ver
-an edit of posy's cursor with a trans flag hourglass
+an edit of posy's cursor with an animated trans flag hourglass
 
 preview:
 
 ![images of the edited cursors](https://github.com/leg7075/posy/blob/main/preview.png?raw=true)
+
+the edited cursors replace the `wait` and `progress` cursor states. everything else is the same as posy's default cursors.
 
 made in figma and [realworld cursor editor](https://www.rw-designer.com/cursor-maker) by editing posy's [svg](https://michieldb.nl/other/cursors/posys-cursors-vectors-v4-svg.svg) files and trying my best to line them up to the original .cur files pixel-by-pixel.
 
