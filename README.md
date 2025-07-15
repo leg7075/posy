@@ -1,6 +1,8 @@
 # posy's cursor mery ver
 an edit of posy's cursor with an animated trans flag hourglass
 
+new! black version available!
+
 preview:
 
 ![images of the edited cursors](https://github.com/leg7075/posy/blob/main/preview.png?raw=true)
