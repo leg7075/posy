@@ -15,7 +15,7 @@ if you would like me to make another variant of the cursor with different colour
 
 ## installation
 
-download this repository as a .zip and install as directed by posy in `_info and instructions.txt`
+download this repository as a .zip and install your chosen scheme as directed by posy in `_info and instructions.txt`
 
 ## credits:
 - posy for the [original cursor](https://michieldb.nl/other/cursors/)
